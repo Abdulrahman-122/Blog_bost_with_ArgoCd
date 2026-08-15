@@ -1,3 +1,1 @@
-# devops-platform-lab
-  - here i will build projects using (kubernetes,AWS,Docker,Terraform,python,tilt,....) in order to build a DevOps mind inshallah.
-
+- <img width="1499" height="678" alt="image" src="https://github.com/user-attachments/assets/e4535ead-5431-4f5c-b696-6dbed7fb823e" />
