@@ -19,7 +19,6 @@ spec:
        #runAsGroup: 1000
       containers:
         - name: flask
-         # image: abdulrahmanqasim/flaskblog-multiplats:v1 
           image: {{.Values.image.repository}}:{{.Values.image.tag}}
           ports:
             - containerPort: {{.Values.service.port}}
